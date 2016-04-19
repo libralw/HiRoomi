@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HiRoomi</string>
+
+    <string name="parse_app_id">v4BUzaOgYMzFI0pzN5vSe2bZ7cgevqV5iz0yzzeP</string>
+    <string name="parse_client_key">iTs3GuMdcG62q5jwvoJESHxkKhP5SZrrJMzsSeIp</string>
+
+    <string name="title_section1">Profile</string>
+    <string name="title_section2">Find Roomi</string>
+    <string name="title_section3">Find Apartment</string>
+    <string name="title_section4">Find on Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="pick_date">Pick Date</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="profile_title_logged_in">Your are logged in as</string>
+    <string name="profile_logout_button_label">Log out</string>
+    <string name="choose_profile_label">choose profile</string>
+    <string name="upload_apartment_label">Upload</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

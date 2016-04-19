@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-393828fa43392c69038f65169bc592e2056a21e1.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-e7abc573d7029c9e5a2cd289a4378448076680fc.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-2597f34d4c52cf78d45393c82a9c3c182ac1da0a.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/classes-e9229085e027d57f9a4a0b7b390f432a0bd1b88a.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/HiRoomi/ParseLoginUI/unspecified/libs/ParseFacebookUtilsV4-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d0490b697e2ff12e81b214d17f166534dfd3bced">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.4-09a845133a0fa5cc6f770ea064874411184cfb07.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-f449649617550b501281a770facbc9495b227cf2.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/gson-2.3.1-44b262c67a867ac189cb7332a8483465b410b7fc.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-187446018aa9e85b6fca119ed128ca411ce8e3f8.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/HiRoomi/ParseLoginUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ca70f10dd80909347bd7207df872bb15bc9c1f51">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/classes-9b6f750be3d711e26ed861c9d781a8a463414fa2.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-349e28668c82cee63b79d6f9230db96a1521d28c.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-f9cd3328ed6e326ad1184be7b26f0de9f557bd6d.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/HiRoomi_Android/ParseLoginUI/unspecified/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/Parse-1.9.4-a947601f382895aed2a56eb73a6cda4daea81190.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-d94486a57eb1872ff3431934528f0c73c3d183bc.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/classes-abf1000c673285a0e7b764d315be8de60104e3bf.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-fa7db05ff6ae506f16487447377cc01100ba5df4.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/classes-4b61413a51686ceb2717e56ccca36dfca6b303bc.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/classes-4b61413a51686ceb2717e56ccca36dfca6b303bc.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-7fbbbcf365a8650c0c846685511ab4be375815c3.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-aca739bebcbe4f3f96f25fef5bdd364002ce1f84.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/HiRoomi/ParseLoginUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ca70f10dd80909347bd7207df872bb15bc9c1f51">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/classes-9b6f750be3d711e26ed861c9d781a8a463414fa2.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-6d5d0c94c6c6ad19cd12b9ac7a509d3334d7006c.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-03f3dd907290490d8fc611df508cabf61fdd5b23.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-3a21ca1fcfc2cc7842107c51f1e4047c255005e1.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-d38eb4d1e567712970547691fdbadb5b6937d389.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/HiRoomi/ParseLoginUI/unspecified/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/Parse-1.9.4-ec69396aa7391f9ac7dd49a2cf54a1d15f26a46c.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-d38eb4d1e567712970547691fdbadb5b6937d389.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-4a782ad7258accb4562b846ca2c2b34a69086424.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-a17bb89cf91916bd88eebae5d157fb55fe4a049e.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/classes-e9229085e027d57f9a4a0b7b390f432a0bd1b88a.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-aa48727ed823ad1b5a92f5c9c398f03ad4760040.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-c2e0ad7eb736edaf5a7d869735e49fe53d29edfb.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/HiRoomi/ParseLoginUI/unspecified/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/Parse-1.9.4-ec69396aa7391f9ac7dd49a2cf54a1d15f26a46c.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-290d6870d296b23bb8b6967d61c4942e3daa7f4c.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/HiRoomi/ParseLoginUI/unspecified/libs/ParseFacebookUtilsV4-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0490b697e2ff12e81b214d17f166534dfd3bced">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.4-09a845133a0fa5cc6f770ea064874411184cfb07.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-93e88b4885c1fa1d0e44909e14c77edf39410298.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-fa7db05ff6ae506f16487447377cc01100ba5df4.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/HiRoomi_Android/ParseLoginUI/unspecified/libs/ParseFacebookUtilsV4-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d0490b697e2ff12e81b214d17f166534dfd3bced">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.4-45347fd35e91953b7478d3f2884dc91b77804d04.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-b002af1686f2daee1c5500cb01dc03830da65ac7.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/classes-abf1000c673285a0e7b764d315be8de60104e3bf.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-a98e203d2cb72b2dfe5a7662802b3dc49aa94997.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-fa7c29defc6f6f76de813061e6d3074df1685ff5.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/HiRoomi_Android/ParseLoginUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fd666bd496eec507fa1910627fd2ce4d73fd4c57">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-ca7768e92157604cd4ad630cfaa0d8ef0b781627.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-c5560112ba37c8c55ed91bfb54b3198dfe17b5d6.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/jiayi/Downloads/HiRoomi/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-c5560112ba37c8c55ed91bfb54b3198dfe17b5d6.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/classes-6e52d76d3519abac4761d777bc0be0dcdc0c84d8.jar" />
+    </item>
+    <item
+        jar="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/jiayi/git/HiRoomi_Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-bfeddefab7194697cf9005c6b0f7be63bfcb4edd.jar" />
+    </item>
+
+</items>
